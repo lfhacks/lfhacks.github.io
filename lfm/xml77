@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updateInfo>
-    <has_update>UPDATE</has_update>
-    <version_display>1.2.3</version_display>
+    <has_update>NO UPDATE</has_update>
+    <version_display>7.7</version_display>
     <software_url>http://example.com/download</software_url>
 </updateInfo>
