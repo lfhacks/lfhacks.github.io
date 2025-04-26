@@ -1,2 +1,2 @@
 # lfhacks.github.io
-LFHacks Potential Pages Site
+LFHacks Pages Site. Feel free to ignore this, this is temporary hosting for LFManager update detection and files for the wiki.
